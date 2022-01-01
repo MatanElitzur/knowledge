@@ -1,3 +1,4 @@
+# Use an existing docker image as a base
 FROM alpine
 
 # Step 2: Download and install dependency
